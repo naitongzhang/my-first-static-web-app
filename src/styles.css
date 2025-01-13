@@ -24,4 +24,5 @@ img {
   height: auto;
   display: block;
   margin: 0 auto;
+  border: 5px solid #000; /* 5像素宽的黑色边框 */
 }
