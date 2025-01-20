@@ -32,3 +32,8 @@ img {
   margin: 0 auto;
   border: 5px solid #000; /* 5像素宽的黑色边框 */
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
